@@ -13,7 +13,7 @@ from PIL import Image
 import time
 import shutil
 
-path='/home/shared_data/chest_xray8/'
+path='/home/hddraid/shared_data/chest_xray8/'
 
 class ChestXray_Dataset(Dataset):
     """Face Landmarks dataset."""
